@@ -1,0 +1,6 @@
+id,name,surname,email,group
+1,aaa,bbb,aaa@gmail.com,SCA1
+2,sdas,sfs,sdgf,dsf
+3,fgsd,asda,sad,sad
+4,gdsgf,dsf,sad,asd
+5,ewr,werew,weqw,wqeq
