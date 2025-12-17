@@ -17,7 +17,7 @@ Event Management System - A JavaFX desktop application for managing event inform
 
 ## Video Demonstration
 [Link to demonstration video]
-
+https://drive.google.com/file/d/1QJeqag5-Vd9-djxV_yZ77ltPNSoa2Gq4/view?usp=sharing
 ## Algorithms and Data Structures
 - **CSV Parser**: State machine for handling quoted fields
 - **Event List Management**: ObservableList for reactive UI updates
